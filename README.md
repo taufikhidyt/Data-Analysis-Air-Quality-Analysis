@@ -12,7 +12,7 @@ This is a Streamlit dashboard for analyzing air quality data. The dashboard visu
 ### Clone the Repository
 First, clone this repository to your local machine using the following command:
 
-```bash
+``
 git clone https://github.com/taufikhidyt/Data-Analysis-Air-Quality-Analysis.git
 ``
 ### Install the Required Libraries
